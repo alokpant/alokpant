@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alok</h1>
 
-[![](https://github-readme-stats.vercel.app/api?username=alokpant)](https://github.com/alokpant/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=alokpant)]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokpant&label=Profile%20views&color=0e75b6&style=flat" alt="alokpant" /> </p>
 
